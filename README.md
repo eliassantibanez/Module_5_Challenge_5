@@ -19,7 +19,9 @@ This application uses the following libraries:
 
 ## Installation Guide
 
-This program will require keys to Alpaca 
+This program will require keys to Alpaca.
+
+Use the financial_planning_tools notebook to launch application. 
 
 ---
 
